@@ -1,0 +1,80 @@
+{ 
+
+"items": [ 
+
+{ 
+
+"title": "JEN: API Settings", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "JEN: Cache", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "JEN: Customization", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "JEN: DEV Mode", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "JEN: Resolver Setup", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "JEN: Scraper Setup", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "PAIRING: Pair My Connection", 
+
+"type": "item" 
+
+}, 
+
+{ 
+
+"link": "plugin://script.module.resolveurl/?mode=auth_rd", 
+
+"title": "REAL-DEBRID: Re-Authorize (ResolveURL)", 
+
+"type": "unknown" 
+
+}, 
+
+{ 
+
+"title": "YOUTUBE: Live and CAMS Fix", 
+
+"type": "item" 
+
+} 
+
+]
+
